@@ -1,0 +1,17 @@
+### File .gitignore del progetto IMPConnector
+
+# File binari java da non archiviare
+*.class
+*.jar
+*.war
+*.ear
+
+
+# File compressi
+*.zip
+*.tgz
+*.gz
+*.tar
+
+# File di log
+*.log

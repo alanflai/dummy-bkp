@@ -1,5 +1,9 @@
 ### File .gitignore del progetto IMPConnector
 
+# Per controllare se un file nelle cartelle del progetto 
+# sia correttamente ignorato dal .gitignore eseguire il comando
+# > git check-ignore -v -- <nome file o cartella>
+
 # File binari java da non archiviare
 *.class
 *.jar

@@ -6,6 +6,8 @@ import java.util.Date;
 /**
  * App
  * 
+ * Rel. 1.0.0
+ * 
  * Calendario dell'anno, per ogni giorno del mese determina
  * e stampa il giorno della settimana.
  **/

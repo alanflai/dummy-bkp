@@ -17,6 +17,9 @@ public class Month {
                                                 "Mer"};
     /** 
      * month
+     * 
+     * Rel. 1.0.0
+     * 
      * The costructor of the class 
      */
     public Month(){
